@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/simplechat1/out"/>
+	<contentEntry url="file://$MODULE_DIR$/simplechat1">
+		<testFolder url="file://$MODULE_DIR$/simplechat1/test"/>
+	</contentEntry>
+</component>

@@ -1,0 +1,12 @@
+Tream mates:
+- Trevor Von Seggern
+- Will Hinz
+- Ethan Loza
+
+Contributions:
+Trevor: ChatClient.java, overview.txt, I worked for 3 hours
+Will: ClientConsole.java, I worked for 3 hours
+Ethan: EchoServer.java, I worked for 3 hours
+
+CSU Honor Pledge:
+We have not given, received, or used any unauthorized assistance.
